@@ -1,3 +1,15 @@
 [submodule "libft"]
 	path = libft
 	url = git@github.com:danielgessner/42_Core_libft.git
+[submodule "ft_printf"]
+	path = ft_printf
+	url = git@github.com:danielgessner/42_Core_ft_printf.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = git@github.com:danielgessner/42_Core_get_next_line.git
+[submodule "push_swap"]
+	path = push_swap
+	url = git@github.com:danielgessner/42_Core_push_swap.git
+[submodule "fractol"]
+	path = fractol
+	url = git@github.com:danielgessner/42_Core_fractol.git
