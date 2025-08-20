@@ -1,3 +1,3 @@
 [submodule "libft"]
 	path = libft
-	url = https://github.com/danielgessner/42_Core_libft
+	url = git@github.com:danielgessner/42_Core_libft.git
