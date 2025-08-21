@@ -13,3 +13,9 @@
 [submodule "fractol"]
 	path = fractol
 	url = git@github.com:danielgessner/42_Core_fractol.git
+[submodule "pipex"]
+	path = pipex
+	url = git@github.com:danielgessner/42_Core_pipex.git
+[submodule "minishell"]
+	path = minishell
+	url = git@github.com:danielgessner/42_Core_minishell.git
